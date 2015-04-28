@@ -1,5 +1,4 @@
 <script type="text/javascript">
-//TEst
     jQuery(document).ready(function(){
         // dynamic table
         oTable = jQuery('#{{ $id }}').dataTable({
